@@ -1,0 +1,10 @@
+.signup{
+    margin: 30px auto;
+    width:80%;
+    height:500px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(94, 94, 220);
+    font-size: 50px;
+}
